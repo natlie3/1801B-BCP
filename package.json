@@ -1,0 +1,14 @@
+{
+  "name": "1801b",
+  "version": "1.0.0",
+  "description": "1801B Class Repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eliot Szwajkowski (eliotpszw@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.0"
+  }
+}
