@@ -1,3 +1,3 @@
-# 1801B-BCP Prep Repository
+#Arrays
 
 Bootcamp prep coursework for Arrays in Javascript.
